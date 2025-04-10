@@ -6,7 +6,7 @@ An AI-powered news summarization tool that fetches and summarizes the latest art
 ## Features
 
 - Custom news search with filters
-- AI-generated summaries (using Groq/Qwen)
+- AI-generated summaries (using Groq/llama 3.3 70b versatile)
 - Related article suggestions
 - Multi-language support
 - Responsive web interface
