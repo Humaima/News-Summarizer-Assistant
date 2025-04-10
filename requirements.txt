@@ -1,0 +1,10 @@
+groq
+langchain-community>=0.2.0
+langchain-huggingface>=0.0.4
+sentence-transformers
+faiss-cpu
+newsapi-python
+requests
+python-dotenv
+streamlit
+torch>=2.0.0  
